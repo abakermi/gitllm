@@ -56,8 +56,7 @@ npm install
 ## 📝 Environment Variables
 
 ### Frontend
-- `NEXT_PUBLIC_WORKER_URL`: Cloudflare Worker URL
-- 
+- `WORKER_URL`: Cloudflare Worker URL
 ### Worker
 - `KV_NAMESPACE_ID`: Cloudflare KV namespace ID
 
