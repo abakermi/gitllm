@@ -1,9 +1,11 @@
 # <img src="./resources//gitllm.svg" > Gitllm
 
 
-A powerful GitHub repository analysis tool that helps you process and analyze repository content efficiently. Built with Next.js, Cloudflare Workers, and modern web technologies.
+A powerful GitHub repository analysis tool that helps you process and analyze repository content efficiently. Built with Next.js, Cloudflare Workers, and modern web technologies.  
 
-![Demo](public/demo.gif)
+<img src="./resources/record.gif" />  
+
+[try here]([public/demo.gif](https://gitllm.vercel.app/))
 
 ## 🌟 Features
 
