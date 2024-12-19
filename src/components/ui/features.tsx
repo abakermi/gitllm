@@ -11,7 +11,7 @@ const featureData = [
 export function Features() {
   return (
     <div className="container mx-auto px-4 py-16">
-      <h2 className="mb-12 text-center text-3xl font-bold text-white">Why Choose Gitingest?</h2>
+      <h2 className="mb-12 text-center text-3xl font-bold text-white">Why Choose Gitllm?</h2>
       <div className="grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-4">
         {featureData.map((feature, index) => (
           <Card key={index} className="bg-white/5 p-6">
